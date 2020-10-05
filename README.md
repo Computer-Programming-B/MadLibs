@@ -2,7 +2,7 @@
 # Mad Libs
 
 You can use the following Mad Lib or make up your own:
-```
+```text
 Adjective Macdonald had a Noun, E-I-E-I-O
 and on that Noun he had an Animal, E-I-E-I-O
 with a Noise Noise here
