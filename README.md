@@ -2,13 +2,15 @@
 # Mad Libs
 
 You can use the following Mad Lib or make up your own:
-`Adjective Macdonald had a Noun, E-I-E-I-O
+```
+Adjective Macdonald had a Noun, E-I-E-I-O
 and on that Noun he had an Animal, E-I-E-I-O
 with a Noise Noise here
 and a Noise Noise there,
 here a Noise, there a Noise,
 everywhere a Noise Noise,
-Adjective Macdonald had a Noun, E-I-E-I-O.`
+Adjective Macdonald had a Noun, E-I-E-I-O.
+```
 
 
 
