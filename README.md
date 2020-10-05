@@ -1,6 +1,6 @@
 ![](MadLibs.JPG)    
 # Mad Libs
-
+For this assignment we will use Python's 
 You can use the following Mad Lib or make up your own:
 ```text
 Adjective Macdonald had a Noun, E-I-E-I-O
