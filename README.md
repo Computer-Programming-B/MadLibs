@@ -1,2 +1,2 @@
-!()[MadLibs.JPG]   
+![](MadLibs.JPG)    
 # Mad Libs
