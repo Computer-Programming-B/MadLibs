@@ -42,6 +42,12 @@ print(madlibText)
 noun = input("Enter a noun: ")
 print("Rumble in the " + noun)
 ```
-
+10. Now we'll use Python's `replace()` function to replace the blank `Noun` in the first line of `madlibText`. Change the `print` to
+```Python
+line = madlibText[0].replace("Noun",noun)
+print(line)
+```
+11. Now create a loop to go through each line in `madlibText` and change every occurance of the blank `Noun`
+12. Finally, add more user input for the other parts of speach and replace those as well
 
 *This assignment is based on an assignment at [Te@ch with ICT](https://www.teachwithict.com/mad_libs.html)*
