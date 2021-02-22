@@ -1,7 +1,7 @@
 ![](MadLibs.JPG)    
 Mad Libs
 ========
-For this assignment we will use Python's `opne()` and `readline()` functions to read in a blank MadLib. Then we will use the `input()` function to ask the user for words from a particular part of speech (e.g. noun, adjective, verb, etc). Finally we'll use Python's `replace()` function to replace the blanks with user input. You may find the website [How to create a Mad Libs game in Python](https://www.teachwithict.com/mad_libs.html) and slides 101 - 106 of the [Computer Programming B slide presentation](https://docs.google.com/presentation/d/1rICcmNbnGYsB-cV_6EatPyzcOS2sId80Jh2kayUzm4Q/edit?usp=sharing) helpful.
+For this assignment we will use Python's `opne()` and `readline()` functions to read in a blank MadLib. Then we will use the `input()` function to ask the user for words from a particular part of speech (e.g. noun, adjective, verb, etc). Finally we'll use Python's `replace()` function to replace the blanks with user input. You may find the website [How to create a Mad Libs game in Python](https://www.teachwithict.com/mad_libs.html) and slides 168 - 179 of the [Computer Programming B slide presentation](https://docs.google.com/presentation/d/1rICcmNbnGYsB-cV_6EatPyzcOS2sId80Jh2kayUzm4Q/edit?usp=sharing) helpful.
 
 Program requirements
 ------------------------------------------
