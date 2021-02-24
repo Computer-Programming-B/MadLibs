@@ -5,7 +5,7 @@ For this assignment we will use Python's `opne()` and `readline()` functions to 
 
 Program requirements
 ------------------------------------------
-1. Your Mad Libs program must use two files: A Python file with the program code and a seperate text file with a blank mad lib.
+1. Your Mad Libs program must use at least two files: A Python file with the program code and a seperate text file with a blank mad lib.
 2. Your blank Mad Lib must be at least 5 lines long and have 3 or more parts of speech.
 2. Your program will need a loop to go through the blank Mad Lib one line at a time replacing the blanks
 
