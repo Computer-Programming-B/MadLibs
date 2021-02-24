@@ -38,7 +38,7 @@ print(madlibText)
 ['ADJECTIVE Macdonald had a NOUN, E-I-E-I-O\n', 'and on that NOUN he had an ANIMAL, E-I-E-I-O\n', 'with a NOISE NOISE here\n', 'and a NOISE NOISE there,\n', 'here a NOISE, there a NOISE,\n', 'everywhere a NOISE NOISE,\n', 'ADJECTIVE Macdonald had a NOUN, E-I-E-I-O.\n', '\n']
 ```
 7. `madlibText` is a list. Each item in the list is a line from the text file.
-8. Now we need to add code to get user input for each part of speech. In the example text there are:
+8. Now we need to add code to get user input for each part of speech that is marked in all caps. In the example text there are:
    * `ADJECTIVE`
    * `NOUN`
    * `ANIMAL`
