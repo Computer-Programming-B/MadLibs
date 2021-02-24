@@ -15,15 +15,15 @@ Suggested steps to starting the assignment
     * a text (`.txt`) file with the blank Mad Lib
     * a Python file (`.py`) with the Python code that reads in the blank file and displays the modified version with user input
    
-2. Let's start with the text file. Create a text file with your blank Mad Lib. You can use the following or make up your own:
+2. Let's start with the text file. Create a text file with your blank Mad Lib. You can use the following, [AfraidOfTheDark.txt](AfraidOfTheDark.txt), [SpookyStuff.txt](SpookyStuff.txt),[TalkLikeAPirate.txt](TalkLikeAPirate.txt) or make up your own:
 ```text
-Adjective Macdonald had a Noun, E-I-E-I-O
-and on that Noun he had an Animal, E-I-E-I-O
-with a Noise Noise here
-and a Noise Noise there,
-here a Noise, there a Noise,
-everywhere a Noise Noise,
-Adjective Macdonald had a Noun, E-I-E-I-O.
+ADJECTIVE Macdonald had a NOUN, E-I-E-I-O
+and on that NOUN he had an ANIMAL, E-I-E-I-O
+with a NOISE NOISE here
+and a NOISE NOISE there,
+here a NOISE, there a NOISE,
+everywhere a NOISE NOISE,
+ADJECTIVE Macdonald had a NOUN, E-I-E-I-O.
 ```
 3. Give the file a meaningful name like `MadLibs.txt`
 4. Now we'll start writing the Python program
@@ -35,7 +35,7 @@ print(madlibText)
 ```
 6. Run the program. You should see output like:
 ```
-['Adjective Macdonald had a Noun, E-I-E-I-O\n', 'and on that Noun he had an Animal, E-I-E-I-O\n', 'with a Noise Noise here\n', 'and a Noise Noise there,\n', 'here a Noise, there a Noise,\n', 'everywhere a Noise Noise,\n', 'Adjective Macdonald had a Noun, E-I-E-I-O.\n', '\n']
+['ADJECTIVE Macdonald had a NOUN, E-I-E-I-O\n', 'and on that NOUN he had an ANIMAL, E-I-E-I-O\n', 'with a NOISE NOISE here\n', 'and a NOISE NOISE there,\n', 'here a NOISE, there a NOISE,\n', 'everywhere a NOISE NOISE,\n', 'ADJECTIVE Macdonald had a NOUN, E-I-E-I-O.\n', '\n']
 ```
 7. `madlibText` is a list. Each item in the list is a line from the text file.
 8. Now we need to add code to get user input for each part of speech. In the example text there are:
