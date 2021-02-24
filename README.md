@@ -50,7 +50,7 @@ print("Rumble in the " + noun)
 ```
 10. Now we'll use Python's `replace()` function to replace the blank `Noun` in the first line of `madlibText`. Change the `print` to
 ```Python
-line = madlibText[0].replace("Noun",noun)
+line = madlibText[0].replace("NOUN",noun)
 print(line)
 ```
 11. Now create a loop to go through each line in `madlibText` and change every occurance of the blank `Noun`
