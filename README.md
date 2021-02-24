@@ -15,7 +15,7 @@ Suggested steps to starting the assignment
     * a text (`.txt`) file with the blank Mad Lib
     * a Python file (`.py`) with the Python code that reads in the blank file and displays the modified version with user input
    
-2. Let's start with the text file. Create a text file with your blank Mad Lib. You can use the following Old Macdonald lyrics, [Afraid Of The Dark](AfraidOfTheDark.txt),  [Spooky Stuff](SpookyStuff.txt), [Talk Like A Pirate](TalkLikeAPirate.txt) or make up your own. (Note that the blanks in the Mad Lib are marked with all caps e.g. `NOUN`)
+2. Let's start with the text file. Create a text file with your blank Mad Lib. You can use the following Old Macdonald lyrics, [Afraid Of The Dark](AfraidOfTheDark.txt),  [Spooky Stuff](SpookyStuff.txt), [Talk Like A Pirate](TalkLikeAPirate.txt) or make up your own. (Note that the blanks in the Mad Lib are marked with all caps like `NOUN`)
 ```text
 ADJECTIVE Macdonald had a NOUN, E-I-E-I-O
 and on that NOUN he had an ANIMAL, E-I-E-I-O
