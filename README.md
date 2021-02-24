@@ -46,7 +46,7 @@ print(madlibText)
 9. Here's some sample code we could use for user input:
 ```Python
 noun = input("Enter a noun: ")
-print("Rumble in the " + noun)
+print(noun)
 ```
 10. Now we'll use Python's `replace()` function to replace the blank `Noun` in the first line of `madlibText`. Change the `print` to
 ```Python
