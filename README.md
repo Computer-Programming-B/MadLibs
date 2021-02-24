@@ -39,10 +39,10 @@ print(madlibText)
 ```
 7. `madlibText` is a list. Each item in the list is a line from the text file.
 8. Now we need to add code to get user input for each part of speech. In the example text there are:
-   * Adjective
-   * Noun
-   * Animal
-   * Noise
+   * `ADJECTIVE`
+   * `NOUN`
+   * `ANIMAL`
+   * `NOISE`
 9. Here's some sample code we could use for user input:
 ```Python
 noun = input("Enter a noun: ")
